@@ -1,4 +1,4 @@
-@a
+@a --suchi
 Feature: Execution using curl command
 
 	@b
